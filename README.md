@@ -6,4 +6,4 @@
  * Java
  * Maven
 
- [Jean-francois Nepton](http://sqasolution.com)
+ [Anna Antonyan](http://sqasolution.com)

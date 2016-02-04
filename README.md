@@ -1,9 +1,7 @@
 # Basic Project
 
- Basic Java Maven Project Structure
+ Vehickle Project 
 
- * QA
- * Java
- * Maven
+
 
  [Anna Antonyan](http://sqasolution.com)
